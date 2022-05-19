@@ -1,0 +1,8 @@
+.paragraph1_index {
+    display: flex;
+    flex-direction: column;
+}
+
+.paragraph1_index > * {
+    width: 60vw;
+}
